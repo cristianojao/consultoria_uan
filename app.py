@@ -70,7 +70,7 @@ st.markdown("""
         border-radius: 18px;
         padding: 22px;
         height: 100%;
-        box-shadow: 0 7px 24px rgba(20, 75, 63, .07);
+        box-shadow: 0 7px 22px rgba(20, 75, 63, .07);
     }
 
     .card h3 {
@@ -119,7 +119,7 @@ st.markdown("""
     .cta {
         margin-top: 35px;
         padding: 34px;
-        border-radius: 24px;
+        border-radius: 22px;
         background: #103f37;
         color: white;
         text-align: center;
@@ -146,7 +146,7 @@ st.markdown("""
         text-decoration: none;
         background: #25D366;
         color: white !important;
-        padding: 13px 24px;
+        padding: 13px 22px;
         border-radius: 12px;
         font-weight: 800;
         margin-top: 8px;
