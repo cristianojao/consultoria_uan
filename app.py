@@ -21,7 +21,7 @@ st.markdown("""
 
     .hero {
         padding: 42px 34px;
-        border-radius: 24px;
+        border-radius: 22px;
         background: linear-gradient(135deg, #0d6b5b, #168b73);
         color: white;
         box-shadow: 0 12px 35px rgba(13, 107, 91, .18);
@@ -258,7 +258,7 @@ st.info("Consultoria, acompanhamento técnico e visitas periódicas.")
 # Contact
 st.markdown("""
 <div class="cta">
-    <h2>📲 Fale agora</h2>
+    <h2>📲 Fale agora com uma Especialista</h2>
     <p>Agende uma avaliação do seu estabelecimento.</p>
     <p><strong>📞 Telefone/WhatsApp: (61) 99927-7063</strong></p>
     <a class="whatsapp" href="https://wa.me/5561999277063" target="_blank">
