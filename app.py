@@ -253,6 +253,7 @@ for col, plan in zip(plan_cols, ["Mensal", "Trimestral", "Semestral", "Anual"]):
     with col:
         st.markdown(f'<div class="plans">📅 {plan}</div>', unsafe_allow_html=True)
 
+
 st.info("Consultoria, acompanhamento técnico e visitas periódicas.")
 
 # Contact
